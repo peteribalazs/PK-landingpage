@@ -1,0 +1,13 @@
+:root {
+  --dark-blue-main: #1c2431; /*hsl(217, 28%, 15%);*/
+  --dark-blue-content: #181f2a; /*hsl(218, 28%, 13%);*/
+  --dark-blue-footer: #0b1523; /*hsl(216, 53%, 9%);*/
+  --dark-blue-testimonial: #202a3c; /*hsl(219, 30%, 18%);*/
+
+  --cyan: #65e2d9; /*hsl(176, 68%, 64%);*/
+  --blue: #339ecc; /*hsl(198, 60%, 50%);*/
+
+  --white: #ffffff; /*hsl(0, 0%, 100%);*/
+  --gray: #d9d9d9; /*hsl(0, 0%, 85%);*/
+  --black: #000000; /* hsl(0, 0%, 0%);*/
+}
