@@ -11,3 +11,21 @@
   --gray: #d9d9d9; /*hsl(0, 0%, 85%);*/
   --black: #000000; /* hsl(0, 0%, 0%);*/
 }
+
+* {
+  font-family: "Raleway", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+ul, 
+ol, 
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
