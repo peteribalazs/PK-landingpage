@@ -26,6 +26,15 @@ li {
   list-style: none;
 }
 
+img {
+  width: 100%;
+}
+
 a {
   text-decoration: none;
+}
+
+html {
+  background-color: #1c2431;
+  color: #ffffff;
 }
