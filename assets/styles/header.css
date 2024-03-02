@@ -14,7 +14,7 @@ nav {
 }
 
 .nav-link {
-/*     border: 2px solid red; */
+    /*     border: 2px solid red; */
     padding: 1.5rem;
     text-align: center;
     font-weight: 700;
@@ -25,3 +25,15 @@ nav {
     color: var(--white);
     text-underline-offset: 0.5rem;
 }
+
+
+@media (min-width: 576px) {
+    header {
+        flex-direction: row;
+    }
+}
+
+
+@media (min-width: 768px) {}
+
+@media (min-width: 992px) {}
