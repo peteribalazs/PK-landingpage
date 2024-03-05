@@ -37,4 +37,5 @@ a {
 
 body {
   background-color: var(--dark-blue-content);
+  min-width: 380px;
 }

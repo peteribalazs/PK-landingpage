@@ -30,10 +30,17 @@ nav {
 @media (min-width: 576px) {
     header {
         flex-direction: row;
+        padding: 2rem 1rem;
+
     }
 }
 
 
-@media (min-width: 768px) {}
+@media (min-width: 768px) {
+    nav {
+        width: 60vw;
+        max-width: 520px;
+    }
+}
 
 @media (min-width: 992px) {}
