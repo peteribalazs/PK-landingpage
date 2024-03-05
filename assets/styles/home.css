@@ -1,13 +1,29 @@
-
 .home {
-
+    background: var(--dark-blue-main);
 }
 
-.home-comtainer {
-
-
+.home-container {
+    width: 95%;
+    margin: auto;
 }
 
 .home-content {
+    background-image: url("../images/bg-curvy-mobile.svg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    padding: 2rem 0 3rem;
+}
+
+.home-content-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
     
 }
+
+.home-content-container p {
+    line-height: 1.5rem;
+    margin: 2rem 0;
+}
+
