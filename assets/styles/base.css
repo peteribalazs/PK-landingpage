@@ -63,8 +63,14 @@ h1 {
   border-radius: 40px;
   font-weight: 700;
   font-size: 1rem;letter-spacing: 0.1rem;
+  transition: all 0.3s ease-out;
 }
 
 .button:hover {
   background-color: var(--cyan);
+  color: var(--white);
+  box-shadow: 1px 1px 5px var(--cyan);
+}
+.button:active {
+  transform: scale(0.95);
 }
